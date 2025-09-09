@@ -14,6 +14,7 @@ function App() {
 <Task name={"John"} />
 <AgeInfo age={24} name ={"Yulianna"} />
 <AgeInfo age={26} name ={"Andrey"} />
+<p>LIVE</p>
   </div>
   );
 }
