@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
-npm i - загрузить зависимости 
-npm run dev - запустить
+npm i - загрузить зависимости - запустить
+npm run dev
 ctr + c - остановить проект 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
