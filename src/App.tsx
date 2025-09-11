@@ -1,17 +1,18 @@
 import './App.css'
 import AgeInfo from './components/AgeInfo/AgeInfo';
+import Counter from './components/Counter/Counter';
 import DogCard from './components/DogCard/DogCard';
 import Greeting from './components/Greeting/Greeting'
+import PersonalGreeting from './components/PersonalGreeting/PersonalGreeting';
 import ProfileCard from './components/ProfileCard/ProfileCard';
 import Task from './components/Task/Task'
 
 function App() {
   return (
     <div>
-     <p>Hello, React!</p>
+   <PersonalGreeting />
 <Greeting />
-<Greeting />
-<Greeting />
+<Counter />
 <DogCard />
 <ProfileCard
         name="Anna Metzer"
